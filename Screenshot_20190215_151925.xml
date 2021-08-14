@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new pics</folder>
+	<filename>Screenshot_20190215_151925.jpg</filename>
+	<path>C:\Users\sushmitha1\Desktop\embroidry data\new pics\Screenshot_20190215_151925.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>172</width>
+		<height>96</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>design-fixing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>10</ymin>
+			<xmax>158</xmax>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+</annotation>

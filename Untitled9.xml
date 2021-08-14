@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new pics</folder>
+	<filename>Untitled9.jpg</filename>
+	<path>C:\Users\sushmitha1\Desktop\embroidry data\new pics\Untitled9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>407</width>
+		<height>229</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threading-process</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>12</ymin>
+			<xmax>347</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new pics</folder>
+	<filename>Untitled031.jpg</filename>
+	<path>C:\Users\sushmitha1\Desktop\embroidry data\new pics\Untitled031.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>270</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>design-fixing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>18</ymin>
+			<xmax>426</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

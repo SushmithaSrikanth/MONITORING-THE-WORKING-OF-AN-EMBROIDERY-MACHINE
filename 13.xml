@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new pics</folder>
+	<filename>13.jpg</filename>
+	<path>C:\Users\sushmitha1\Desktop\embroidry data\new pics\13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>303</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>embroidery-inprocess</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>49</ymin>
+			<xmax>178</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>embroidery-inprocess</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>37</ymin>
+			<xmax>300</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

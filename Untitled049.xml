@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new pics</folder>
+	<filename>Untitled049.jpg</filename>
+	<path>C:\Users\sushmitha1\Desktop\embroidry data\new pics\Untitled049.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>478</width>
+		<height>232</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threading-process</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>131</ymin>
+			<xmax>313</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>machine-malfunction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>10</ymin>
+			<xmax>245</xmax>
+			<ymax>118</ymax>
+		</bndbox>
+	</object>
+</annotation>

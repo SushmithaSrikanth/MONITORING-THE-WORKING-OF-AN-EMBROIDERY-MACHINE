@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new pics</folder>
+	<filename>Screenshot_20190215_154205 (1).jpg</filename>
+	<path>C:\Users\sushmitha1\Desktop\embroidry data\new pics\Screenshot_20190215_154205 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>172</width>
+		<height>96</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>machine-malfunction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>20</ymin>
+			<xmax>92</xmax>
+			<ymax>81</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>normal-operation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>24</ymin>
+			<xmax>148</xmax>
+			<ymax>85</ymax>
+		</bndbox>
+	</object>
+</annotation>

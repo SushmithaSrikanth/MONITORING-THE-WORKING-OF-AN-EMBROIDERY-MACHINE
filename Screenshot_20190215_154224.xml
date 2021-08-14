@@ -1,0 +1,50 @@
+<annotation>
+	<folder>new pics</folder>
+	<filename>Screenshot_20190215_154224.jpg</filename>
+	<path>C:\Users\sushmitha1\Desktop\embroidry data\new pics\Screenshot_20190215_154224.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>173</width>
+		<height>96</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>threading-process</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>59</ymin>
+			<xmax>93</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>machine-malfunction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>7</ymin>
+			<xmax>83</xmax>
+			<ymax>46</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>normal-operation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>5</ymin>
+			<xmax>146</xmax>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+</annotation>
